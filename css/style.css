@@ -4167,9 +4167,3 @@ html{
 .buttonBar {
     display: none;
 }
-
-
-/* VALIDATON */
-.process-wrapp li p {
-   width: 190px;  
-}
