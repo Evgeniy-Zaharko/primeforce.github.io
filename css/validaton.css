@@ -2,3 +2,16 @@
 .process-wrapp li p {
     width: 190px;  
  }
+
+ /* .map-responsive{
+    overflow:hidden;
+    margin-right: 0;
+    position:relative;
+}
+.map-responsive iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+} */
