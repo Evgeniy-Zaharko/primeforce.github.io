@@ -2,7 +2,7 @@
 .process-wrapp li p {
     width: 190px;  
  }
- 
+
  .google-maps {
     position: relative;
     padding-bottom: 30%;
@@ -14,5 +14,5 @@
     top: 0;
     left: 0;
     width: 100% !important;
-    height: 100% !important;
+    height: 250% !important;
 }
