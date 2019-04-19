@@ -16,3 +16,7 @@
     width: 100% !important;
     height: 100% !important;
 }
+
+.side-menu img {
+    margin-bottom: 40px;
+}
