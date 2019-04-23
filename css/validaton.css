@@ -20,3 +20,8 @@
 .side-menu img {
     margin-bottom: 40px;
 }
+
+/* Black color for readability over new background */
+#typewriting, .font-xlight {
+    color: black;
+}
